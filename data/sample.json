@@ -1,0 +1,502 @@
+[
+  {
+    "gene": "iW78C",
+    "transcript": "uc565cbs.5",
+    "exper_rep1": 4426.07,
+    "exper_rep2": 4323.17,
+    "exper_rep3": 4036.34,
+    "control_rep1": 2.96,
+    "control_rep2": 4736.11,
+    "control_rep3": 4936.33
+  },
+  {
+    "gene": "5u9N",
+    "transcript": "uc256egf.1",
+    "exper_rep1": 3121.0,
+    "exper_rep2": 423.79,
+    "exper_rep3": 4135.42,
+    "control_rep1": 1073.32,
+    "control_rep2": 879.4,
+    "control_rep3": 613.28
+  },
+  {
+    "gene": "dAk1iXz1QZ",
+    "transcript": "uc339jpw.8",
+    "exper_rep1": 400.9,
+    "exper_rep2": 128.16,
+    "exper_rep3": 4807.04,
+    "control_rep1": 4931.1,
+    "control_rep2": 905.56,
+    "control_rep3": 4872.55
+  },
+  {
+    "gene": "1U7SNWmDj",
+    "transcript": "uc225mpb.7,uc454vrq.3",
+    "exper_rep1": 3008.73,
+    "exper_rep2": 2342.37,
+    "exper_rep3": 2081.07,
+    "control_rep1": 1126.73,
+    "control_rep2": 2472.85,
+    "control_rep3": 2.55
+  },
+  {
+    "gene": "awDhtObTZ",
+    "transcript": "uc400tte.3",
+    "exper_rep1": 4857.82,
+    "exper_rep2": 2501.05,
+    "exper_rep3": 3504.14,
+    "control_rep1": 871.33,
+    "control_rep2": 1842.16,
+    "control_rep3": 4071.08
+  },
+  {
+    "gene": "mlIYAJPs4f",
+    "transcript": "uc217dww.1,uc428qoi.6",
+    "exper_rep1": 4610.53,
+    "exper_rep2": 3990.47,
+    "exper_rep3": 191.24,
+    "control_rep1": 1828.68,
+    "control_rep2": 4712.82,
+    "control_rep3": 1869.29
+  },
+  {
+    "gene": "TqlfNDOkr",
+    "transcript": "uc498tof.7,uc938hgw.9",
+    "exper_rep1": 3072.45,
+    "exper_rep2": 512.04,
+    "exper_rep3": 2916.78,
+    "control_rep1": 1039.24,
+    "control_rep2": 2980.68,
+    "control_rep3": 1830.91
+  },
+  {
+    "gene": "zN0",
+    "transcript": "uc294lgi.8,uc693xom.1",
+    "exper_rep1": 4069.52,
+    "exper_rep2": 1976.63,
+    "exper_rep3": 1101.1,
+    "control_rep1": 4255.46,
+    "control_rep2": 411.74,
+    "control_rep3": 766.38
+  },
+  {
+    "gene": "94UV358ZC",
+    "transcript": "uc512pjz.2",
+    "exper_rep1": 1002.0,
+    "exper_rep2": 2540.69,
+    "exper_rep3": 4003.28,
+    "control_rep1": 2579.84,
+    "control_rep2": 4702.55,
+    "control_rep3": 3021.76
+  },
+  {
+    "gene": "WomBIMgq",
+    "transcript": "uc165pag.2,uc243hak.4,uc352giu.3",
+    "exper_rep1": 433.8,
+    "exper_rep2": 2391.43,
+    "exper_rep3": 4311.72,
+    "control_rep1": 3215.56,
+    "control_rep2": 1098.59,
+    "control_rep3": 435.58
+  },
+  {
+    "gene": "G1LiUY",
+    "transcript": "uc878ncm.7,uc811xnv.8,uc750ooq.6",
+    "exper_rep1": 4104.87,
+    "exper_rep2": 356.49,
+    "exper_rep3": 1311.42,
+    "control_rep1": 3934.36,
+    "control_rep2": 4730.35,
+    "control_rep3": 2824.9
+  },
+  {
+    "gene": "KAbo",
+    "transcript": "uc666qay.9,uc328uph.5",
+    "exper_rep1": 2569.73,
+    "exper_rep2": 689.07,
+    "exper_rep3": 2338.08,
+    "control_rep1": 1693.69,
+    "control_rep2": 1152.23,
+    "control_rep3": 4520.63
+  },
+  {
+    "gene": "BfFS",
+    "transcript": "uc908gmp.9,uc390xvr.5,uc677tbj.6",
+    "exper_rep1": 3318.9,
+    "exper_rep2": 4160.66,
+    "exper_rep3": 1580.15,
+    "control_rep1": 1428.67,
+    "control_rep2": 2958.96,
+    "control_rep3": 3211.74
+  },
+  {
+    "gene": "QRSApJ5Q",
+    "transcript": "uc233bmb.8",
+    "exper_rep1": 1588.69,
+    "exper_rep2": 784.12,
+    "exper_rep3": 172.33,
+    "control_rep1": 4660.13,
+    "control_rep2": 4616.31,
+    "control_rep3": 2523.53
+  },
+  {
+    "gene": "wWfdvdus",
+    "transcript": "uc630ifa.1,uc822xym.9",
+    "exper_rep1": 4686.82,
+    "exper_rep2": 2538.58,
+    "exper_rep3": 683.03,
+    "control_rep1": 2376.09,
+    "control_rep2": 4919.51,
+    "control_rep3": 4532.87
+  },
+  {
+    "gene": "yzqnFtPa",
+    "transcript": "uc985eky.8",
+    "exper_rep1": 1144.09,
+    "exper_rep2": 1504.92,
+    "exper_rep3": 3300.5,
+    "control_rep1": 38.24,
+    "control_rep2": 2499.58,
+    "control_rep3": 3424.38
+  },
+  {
+    "gene": "xSX",
+    "transcript": "uc466fry.6,uc221xur.8",
+    "exper_rep1": 679.93,
+    "exper_rep2": 610.36,
+    "exper_rep3": 2728.32,
+    "control_rep1": 497.79,
+    "control_rep2": 322.77,
+    "control_rep3": 1283.9
+  },
+  {
+    "gene": "mbqop7A",
+    "transcript": "uc264lnb.4",
+    "exper_rep1": 4468.71,
+    "exper_rep2": 2360.75,
+    "exper_rep3": 618.6,
+    "control_rep1": 516.27,
+    "control_rep2": 29.93,
+    "control_rep3": 2339.24
+  },
+  {
+    "gene": "D7IxLIALsc",
+    "transcript": "uc105jga.8",
+    "exper_rep1": 3591.6,
+    "exper_rep2": 1232.99,
+    "exper_rep3": 4377.24,
+    "control_rep1": 1436.2,
+    "control_rep2": 3022.87,
+    "control_rep3": 3176.07
+  },
+  {
+    "gene": "O2BfyqUVR",
+    "transcript": "uc754msa.3",
+    "exper_rep1": 2073.27,
+    "exper_rep2": 1105.28,
+    "exper_rep3": 4680.01,
+    "control_rep1": 2683.04,
+    "control_rep2": 2882.99,
+    "control_rep3": 2240.57
+  },
+  {
+    "gene": "5vXOY",
+    "transcript": "uc721elq.9",
+    "exper_rep1": 3388.85,
+    "exper_rep2": 221.94,
+    "exper_rep3": 1043.31,
+    "control_rep1": 1708.04,
+    "control_rep2": 3354.41,
+    "control_rep3": 1107.14
+  },
+  {
+    "gene": "rkc",
+    "transcript": "uc843pov.9",
+    "exper_rep1": 282.09,
+    "exper_rep2": 881.18,
+    "exper_rep3": 3141.2,
+    "control_rep1": 3891.43,
+    "control_rep2": 3630.62,
+    "control_rep3": 1303.22
+  },
+  {
+    "gene": "TtMydBj",
+    "transcript": "uc121nkq.6,uc132jdz.9",
+    "exper_rep1": 4183.18,
+    "exper_rep2": 2716.1,
+    "exper_rep3": 1254.49,
+    "control_rep1": 2721.78,
+    "control_rep2": 4719.84,
+    "control_rep3": 3287.98
+  },
+  {
+    "gene": "tkKA",
+    "transcript": "uc276czu.9",
+    "exper_rep1": 2105.56,
+    "exper_rep2": 4225.08,
+    "exper_rep3": 1644.57,
+    "control_rep1": 2986.79,
+    "control_rep2": 2094.35,
+    "control_rep3": 420.42
+  },
+  {
+    "gene": "o2Gxe",
+    "transcript": "uc742liz.7",
+    "exper_rep1": 3097.09,
+    "exper_rep2": 2092.47,
+    "exper_rep3": 295.06,
+    "control_rep1": 181.19,
+    "control_rep2": 649.87,
+    "control_rep3": 58.38
+  },
+  {
+    "gene": "PVE",
+    "transcript": "uc472pkr.1,uc446ikv.4,uc739pwl.1",
+    "exper_rep1": 4340.42,
+    "exper_rep2": 4228.16,
+    "exper_rep3": 3112.56,
+    "control_rep1": 4261.14,
+    "control_rep2": 2710.99,
+    "control_rep3": 4907.41
+  },
+  {
+    "gene": "3JnB9MX",
+    "transcript": "uc674fqz.9,uc742ktv.3",
+    "exper_rep1": 157.7,
+    "exper_rep2": 2736.39,
+    "exper_rep3": 4328.52,
+    "control_rep1": 3215.01,
+    "control_rep2": 3999.18,
+    "control_rep3": 4108.2
+  },
+  {
+    "gene": "8yGZOFC",
+    "transcript": "uc553oqo.7,uc433vjk.9,uc856anj.2",
+    "exper_rep1": 1311.08,
+    "exper_rep2": 2168.75,
+    "exper_rep3": 4102.86,
+    "control_rep1": 317.55,
+    "control_rep2": 4266.77,
+    "control_rep3": 3770.06
+  },
+  {
+    "gene": "cC2yTQqrIH",
+    "transcript": "uc838ygh.9,uc659eij.6,uc543mhu.6",
+    "exper_rep1": 2750.37,
+    "exper_rep2": 4529.61,
+    "exper_rep3": 2769.78,
+    "control_rep1": 2648.92,
+    "control_rep2": 2510.25,
+    "control_rep3": 385.33
+  },
+  {
+    "gene": "pWeN",
+    "transcript": "uc668ybq.5,uc435iej.9",
+    "exper_rep1": 4108.45,
+    "exper_rep2": 4269.81,
+    "exper_rep3": 4768.17,
+    "control_rep1": 4160.91,
+    "control_rep2": 2170.3,
+    "control_rep3": 3315.71
+  },
+  {
+    "gene": "waxxL",
+    "transcript": "uc194unh.3,uc353rwu.4",
+    "exper_rep1": 1725.77,
+    "exper_rep2": 2703.25,
+    "exper_rep3": 3511.95,
+    "control_rep1": 3054.46,
+    "control_rep2": 4974.76,
+    "control_rep3": 4520.81
+  },
+  {
+    "gene": "3710P5Qbn",
+    "transcript": "uc437fjp.1,uc372opm.6",
+    "exper_rep1": 4674.4,
+    "exper_rep2": 3869.86,
+    "exper_rep3": 124.46,
+    "control_rep1": 4783.52,
+    "control_rep2": 4151.65,
+    "control_rep3": 2584.3
+  },
+  {
+    "gene": "2XWCLLG",
+    "transcript": "uc359ucj.1,uc560xhw.4,uc391hbp.1",
+    "exper_rep1": 1325.4,
+    "exper_rep2": 1331.47,
+    "exper_rep3": 4319.52,
+    "control_rep1": 3414.78,
+    "control_rep2": 4468.01,
+    "control_rep3": 146.83
+  },
+  {
+    "gene": "Twh7RLz",
+    "transcript": "uc285rcg.9",
+    "exper_rep1": 4768.05,
+    "exper_rep2": 1016.13,
+    "exper_rep3": 1569.44,
+    "control_rep1": 4202.55,
+    "control_rep2": 4656.11,
+    "control_rep3": 1138.18
+  },
+  {
+    "gene": "xwnWImgYo",
+    "transcript": "uc165avs.7",
+    "exper_rep1": 2498.6,
+    "exper_rep2": 836.07,
+    "exper_rep3": 3843.69,
+    "control_rep1": 4753.07,
+    "control_rep2": 1694.86,
+    "control_rep3": 3452.72
+  },
+  {
+    "gene": "aDCqW",
+    "transcript": "uc916npt.1,uc715lzn.4,uc395hop.4",
+    "exper_rep1": 4304.61,
+    "exper_rep2": 1910.98,
+    "exper_rep3": 3500.87,
+    "control_rep1": 484.28,
+    "control_rep2": 3619.92,
+    "control_rep3": 3302.49
+  },
+  {
+    "gene": "Cw3KB",
+    "transcript": "uc206hxc.6,uc853ezh.3,uc277ioy.9",
+    "exper_rep1": 1670.86,
+    "exper_rep2": 3079.43,
+    "exper_rep3": 3185.85,
+    "control_rep1": 4715.72,
+    "control_rep2": 3582.47,
+    "control_rep3": 3858.78
+  },
+  {
+    "gene": "jZNwg3SF44",
+    "transcript": "uc766hrw.6",
+    "exper_rep1": 1329.03,
+    "exper_rep2": 3886.69,
+    "exper_rep3": 3886.68,
+    "control_rep1": 1295.22,
+    "control_rep2": 2815.38,
+    "control_rep3": 1093.16
+  },
+  {
+    "gene": "g96OD",
+    "transcript": "uc456qvz.8,uc713ure.3",
+    "exper_rep1": 1162.52,
+    "exper_rep2": 3663.38,
+    "exper_rep3": 2359.81,
+    "control_rep1": 776.91,
+    "control_rep2": 882.87,
+    "control_rep3": 627.57
+  },
+  {
+    "gene": "95oC5aq",
+    "transcript": "uc648wch.2",
+    "exper_rep1": 4319.25,
+    "exper_rep2": 4804.81,
+    "exper_rep3": 314.2,
+    "control_rep1": 2040.6,
+    "control_rep2": 206.53,
+    "control_rep3": 4293.41
+  },
+  {
+    "gene": "NM75UK9z",
+    "transcript": "uc941bpa.2,uc406aeb.1,uc978phb.7",
+    "exper_rep1": 4764.41,
+    "exper_rep2": 3128.27,
+    "exper_rep3": 168.92,
+    "control_rep1": 1830.54,
+    "control_rep2": 4804.89,
+    "control_rep3": 2147.84
+  },
+  {
+    "gene": "c4Cu",
+    "transcript": "uc979esv.3,uc871dfn.2,uc497krv.6",
+    "exper_rep1": 77.53,
+    "exper_rep2": 4724.06,
+    "exper_rep3": 2695.04,
+    "control_rep1": 2014.65,
+    "control_rep2": 4119.99,
+    "control_rep3": 3219.68
+  },
+  {
+    "gene": "RvaHKu",
+    "transcript": "uc413qfq.5,uc568igg.3,uc864mpi.7",
+    "exper_rep1": 899.03,
+    "exper_rep2": 2731.61,
+    "exper_rep3": 1604.6,
+    "control_rep1": 2365.79,
+    "control_rep2": 3285.21,
+    "control_rep3": 2514.1
+  },
+  {
+    "gene": "o5M",
+    "transcript": "uc848onq.5",
+    "exper_rep1": 15.06,
+    "exper_rep2": 3000.7,
+    "exper_rep3": 4038.84,
+    "control_rep1": 2255.59,
+    "control_rep2": 3842.21,
+    "control_rep3": 2771.2
+  },
+  {
+    "gene": "5JI",
+    "transcript": "uc910czo.3",
+    "exper_rep1": 2116.67,
+    "exper_rep2": 4787.09,
+    "exper_rep3": 2095.12,
+    "control_rep1": 468.74,
+    "control_rep2": 3489.66,
+    "control_rep3": 1657.57
+  },
+  {
+    "gene": "J8OoP63FF",
+    "transcript": "uc534ver.4",
+    "exper_rep1": 2781.11,
+    "exper_rep2": 458.29,
+    "exper_rep3": 773.66,
+    "control_rep1": 2796.43,
+    "control_rep2": 3771.48,
+    "control_rep3": 2644.84
+  },
+  {
+    "gene": "KmyW0mb7g",
+    "transcript": "uc379lzz.8,uc743vum.8",
+    "exper_rep1": 397.02,
+    "exper_rep2": 2637.11,
+    "exper_rep3": 4541.09,
+    "control_rep1": 1190.81,
+    "control_rep2": 1995.75,
+    "control_rep3": 1936.68
+  },
+  {
+    "gene": "voC1",
+    "transcript": "uc199abb.2,uc565wtm.4,uc803whm.4",
+    "exper_rep1": 2535.1,
+    "exper_rep2": 3368.37,
+    "exper_rep3": 2632.83,
+    "control_rep1": 1367.79,
+    "control_rep2": 562.75,
+    "control_rep3": 157.43
+  },
+  {
+    "gene": "ame0iEiF8n",
+    "transcript": "uc619axc.7",
+    "exper_rep1": 1334.15,
+    "exper_rep2": 4174.64,
+    "exper_rep3": 2676.85,
+    "control_rep1": 4780.17,
+    "control_rep2": 3512.76,
+    "control_rep3": 3948.57
+  },
+  {
+    "gene": "QjNFw",
+    "transcript": "uc450pcg.9,uc528ehv.2",
+    "exper_rep1": 144.15,
+    "exper_rep2": 2138.96,
+    "exper_rep3": 1357.4,
+    "control_rep1": 3709.78,
+    "control_rep2": 3721.85,
+    "control_rep3": 923.02
+  }
+]

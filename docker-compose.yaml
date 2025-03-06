@@ -1,0 +1,65 @@
+services:
+  backend:
+    container_name: backend_gene
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    environment:
+      MONGODB_CONNECTION_STRING: ${MONGODB_CONNECTION_STRING}
+    depends_on:
+      - mongo
+    networks:
+      - gene
+
+  frontend:
+    container_name: frontend_gene
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    environment:
+      BACKEND_URL: ${BACKEND_URL}
+    depends_on:
+      - backend
+    ports:
+      - 3001:80
+    networks:
+      - gene
+
+  mongo:
+    container_name: mongo_gene
+    image: mongo:4.0.14
+    ports:
+      - 27017:27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+      MONGO_INITDB_USERNAME: ${MONGO_INITDB_USERNAME}
+      MONGO_INITDB_PASSWORD: ${MONGO_INITDB_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
+    volumes:
+      - ./data/mongo/init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh:ro
+      - ./data/sample.json:/sample.json:ro
+    networks:
+      - gene
+
+  mongo-express:
+    container_name: mongo-express_gene
+    image: mongo-express:0.49.0
+    depends_on:
+      - mongo
+    ports:
+      - 8087:8081
+    environment:
+      ME_CONFIG_MONGODB_ENABLE_ADMIN: 'false'
+      ME_CONFIG_MONGODB_AUTH_USERNAME: ${MONGO_INITDB_USERNAME}
+      ME_CONFIG_MONGODB_AUTH_PASSWORD: ${MONGO_INITDB_PASSWORD}
+      ME_CONFIG_MONGODB_AUTH_DATABASE: ${MONGO_INITDB_DATABASE}
+    networks:
+      - gene
+
+networks:
+  gene:
+    driver: bridge
+
